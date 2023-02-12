@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freezecook
 - 👀 I’m interested in Game Development, Graphics, Reverse Engineering, and much more.
 - 🌱 I’m currently learning Python, and I'm always researching interesting topics.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on video games and any projects that test my limits, really.
 - 📫 How to reach me ...
 
 <!---
